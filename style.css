@@ -1,1 +1,39 @@
 
+:root {
+
+--cor-de-fundo: #19b5c3
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
+<body>
+   <h1>alurabook</h1>
+</body>
+h1   {
+    background-color: wite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
